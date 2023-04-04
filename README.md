@@ -3,7 +3,8 @@ Solutions for codewars problems.
 
 Codewars is a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills. Think of it like a coding dojo - where developers train with each other and help each other get better through practice
 
-My current codewars rank:
+My current codewars rank (since Feb 2023):
+
 ![image](https://www.codewars.com/users/Vistopro/badges/large)
 
 Kyu digit determines kata's difficulty level as well as user's rank on a website.
